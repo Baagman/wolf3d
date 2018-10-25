@@ -3,15 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   display.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tbaagman <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: tbaagman <tbaagman@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/28 15:24:15 by tbaagman          #+#    #+#             */
-/*   Updated: 2018/09/11 12:51:42 by tbaagman         ###   ########.fr       */
+/*   Updated: 2018/10/25 14:10:08 by tbaagman         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "wolf3d.h"
-#include <mlx.h>
 
 void	ft_put_pixel(t_mlx *env, int x, int y, int color)
 {

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   wolf3d.h                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tbaagman <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: tbaagman <tbaagman@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/24 11:26:07 by tbaagman          #+#    #+#             */
-/*   Updated: 2018/09/12 14:52:17 by tbaagman         ###   ########.fr       */
+/*   Updated: 2018/10/25 14:11:06 by tbaagman         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,6 +21,7 @@
 # define KEYRELEASE 3
 # define KEYPRESSMASK (1<<0)
 # define KEYRELEASEMASK (1<<1)
+# include "./minilibx/mlx.h"
 
 /*
 ** Key codes for quiting the program and movements

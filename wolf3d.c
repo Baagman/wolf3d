@@ -3,16 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   wolf3d.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tbaagman <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: tbaagman <tbaagman@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/24 09:39:18 by tbaagman          #+#    #+#             */
-/*   Updated: 2018/09/11 13:23:16 by tbaagman         ###   ########.fr       */
+/*   Updated: 2018/10/25 14:10:39 by tbaagman         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "./libft/libft.h"
 #include "wolf3d.h"
-#include <mlx.h>
 
 static int	ft_exit(void)
 {

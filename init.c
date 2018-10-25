@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   init.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tbaagman <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: tbaagman <tbaagman@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/24 11:27:23 by tbaagman          #+#    #+#             */
-/*   Updated: 2018/09/12 15:14:23 by tbaagman         ###   ########.fr       */
+/*   Updated: 2018/10/25 14:10:16 by tbaagman         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,6 @@
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <mlx.h>
 
 void	init(t_mlx *mlx)
 {

@@ -3,16 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   key_handler.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tbaagman <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: tbaagman <tbaagman@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/24 15:18:25 by tbaagman          #+#    #+#             */
-/*   Updated: 2018/09/11 12:23:06 by tbaagman         ###   ########.fr       */
+/*   Updated: 2018/10/25 14:10:24 by tbaagman         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "wolf3d.h"
 #include "./libft/libft.h"
-#include <mlx.h>
 #include <fcntl.h>
 #include <stdlib.h>
 
